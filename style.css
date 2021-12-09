@@ -1,0 +1,24 @@
+body {
+	background-color: #333333;
+}
+
+.clock {
+	background: #333333;
+	width: 600px;
+	padding: 30px;
+	text-align: center;
+	border-radius: 10px;
+	margin: 250px 300px
+}
+
+.clock-time {
+	font-family: 'Varela', sans-serif;	
+	font-size: 120px;
+	color: #eeeeee;
+}
+
+.clock-ampm {
+	font-size: 80px;
+	font-family: 'Varela', sans-serif;
+	color: #eeeeee
+}
