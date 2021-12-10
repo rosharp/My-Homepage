@@ -5,7 +5,7 @@ body {
 .clock {
 	position: absolute;
         top: 47%;
-        left: 52%;
+        left: 51%;
         margin-right: -55%; transform: translate(-50%, -50%);
 	background: #333333;
 	width: 600px;
